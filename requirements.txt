@@ -1,0 +1,7 @@
+rapidfuzz>=3.0
+duckdb>=1.0
+pandas
+pyarrow
+pyyaml
+streamlit>=1.50
+pytest

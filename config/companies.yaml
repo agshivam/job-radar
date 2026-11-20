@@ -1,0 +1,13 @@
+# Which public sources to read.
+# feeds: open job feeds that need no company list.
+# boards: company job boards. Add a company by its board token (the last part of its job board URL):
+#   greenhouse: boards.greenhouse.io/<token>   lever: jobs.lever.co/<token>   ashby: jobs.ashbyhq.com/<token>
+# Check each token in a browser before adding it. A wrong token is skipped with a message, not an error.
+feeds: [arbeitnow, remotive]
+boards:
+  greenhouse: []
+  lever: []
+  ashby: []
+# Example:
+#   greenhouse:
+#     - {name: "Example Company", token: "examplecompany"}

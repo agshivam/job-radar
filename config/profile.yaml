@@ -1,0 +1,5 @@
+# Your resume profile. Skills must use the names in src/jobradar/skills.py.
+name: Shivam Agarwal
+skills: [Snowflake, dbt, SQL, Python, Airflow, Fivetran, AWS, Azure, "ETL/ELT", "Data modeling", "CI/CD", Tableau, MongoDB, HIPAA, Healthcare, "Data quality", Databricks, Terraform, Dagster]
+locations: [india, gurugram, gurgaon, noida, delhi, apac, asia]
+alert_min_score: 60

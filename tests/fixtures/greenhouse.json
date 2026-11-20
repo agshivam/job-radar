@@ -1,0 +1,5 @@
+{"jobs":[
+{"id":101,"title":"Senior Data Engineer","updated_at":"2026-11-15T10:00:00Z","location":{"name":"Remote - India"},"absolute_url":"https://boards.greenhouse.io/acme/jobs/101","content":"&lt;p&gt;Build Snowflake and dbt pipelines in Python on AWS. Experience with Airflow, Fivetran and data modeling. HIPAA a plus.&lt;/p&gt;"},
+{"id":102,"title":"Junior Data Analyst (Intern)","updated_at":"2026-11-10T10:00:00Z","location":{"name":"Berlin"},"absolute_url":"https://boards.greenhouse.io/acme/jobs/102","content":"&lt;p&gt;SQL and Tableau.&lt;/p&gt;"},
+{"id":103,"title":"Marketing Manager","updated_at":"2026-11-10T10:00:00Z","location":{"name":"London"},"absolute_url":"https://boards.greenhouse.io/acme/jobs/103","content":"Brand work."}
+]}
