@@ -4,7 +4,6 @@ A small pipeline that collects data engineering jobs from **legal public sources
 
 It does not scrape LinkedIn or Indeed. It reads only public job board APIs and open feeds that are meant for reuse.
 
-**Live report:** deploy `app/streamlit_app.py` on Streamlit Community Cloud (steps in [HOW_TO_RUN.md](HOW_TO_RUN.md)).
 
 ## How it works
 
