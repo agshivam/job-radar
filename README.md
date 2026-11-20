@@ -1,5 +1,7 @@
 # Job Radar
 
+**Live report:** https://job-radar-dashboard.streamlit.app/
+
 A small pipeline that collects data engineering jobs from **legal public sources**, removes duplicates, scores each job against a resume profile, and sends the best new matches to Telegram every morning.
 
 It does not scrape LinkedIn or Indeed. It reads only public job board APIs and open feeds that are meant for reuse.
